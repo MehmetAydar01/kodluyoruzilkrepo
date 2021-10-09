@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev/egitimlerhttps://app.patika.dev/egit
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone  https://github.com/QXyGeN01/kodluyoruzilkrepo.git
+git clone  [https://github.com/QXyGeN01/kodluyoruzilkrepo.git]()
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
